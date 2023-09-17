@@ -1,0 +1,68 @@
+.scoreLabel {
+    float: left;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.timeLabel {
+    float: right;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+body {
+    background-color: lightblue
+}
+
+.header {
+    background-color: rgb(194, 164, 124);
+    height: 60px;
+    padding-top: 12px;
+    font-weight: 800;
+    padding-left: 435px;
+}
+
+#showSketch {
+    float: right;
+    margin-right: 20px;
+    margin-left: 320px;
+}
+
+.contents {
+    background-color: burlywood;
+    width: 30%;
+    height: 220px;
+    padding-top: 10px;
+    border-radius: 15px;
+}
+
+.timeScore{
+    background-color: burlywood;
+    height: 510px;
+    margin-top: 45px;
+    width: 500px;
+    border-radius: 15px;
+}
+
+canvas {
+    background-color: gainsboro;
+    margin-top: 280px;
+    margin-left: 1px;
+    border-radius: 15px;
+}
+
+.clear{
+    width: 20%;
+    margin-top: 10px;
+}
+
+.go{
+    width: 20%;
+    margin-top: 20px;
+    border: 2px ridge black;
+}
+
+.note{
+    width: 96%;
+    
+}
